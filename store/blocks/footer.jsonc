@@ -30,6 +30,7 @@
   },
   "social-networks": {
     "props": {
+      "showInColor": true,
       "socialNetworks": [
         { "url": "https://facebook.com/foo", "name": "Facebook" },
         { "url": "https://instagram.com/foo", "name": "Instagram" },
