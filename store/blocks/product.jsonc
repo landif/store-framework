@@ -65,12 +65,12 @@
     ]
   },
   "sku-selector": {
-    "props": {
-      "hideImpossibleCombinations": false,
+    "props": {      
       "initialSelection":"empty",
       "showValueForVariation":"all",
       "showVariationsErrorMessage":true,
-      "showVariationsLabels":true
+      "showVariationsLabels":true,
+      "visibility":"always"
     }
   },
   "shipping-simulator": {
