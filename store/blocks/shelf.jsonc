@@ -1,6 +1,6 @@
 {
     "shelf": {
-        "blocks": ["product-summary.shelf"],
+        "blocks": ["product-summary.shelf#home"],
         "props": {
           //"category": 1,
           "orderBy": "OrderByTopSaleDESC",
@@ -15,7 +15,7 @@
           }
         }
       },
-      "product-summary.shelf": {
+      "product-summary.shelf#home": {
         "children": [
           "product-summary-image",
           "product-summary-add-to-list-button",
