@@ -29,10 +29,23 @@
       "buy-button"
     ]
   },
+  "vtex.store-components:product-name":{
+    "props": {
+      "showSKU": true,
+      "showBrandName": true
+    }
+  },
   "product-price": {
     "props": {
       "showSavings": true,
       "showListPrice": true
     }
+  },
+  "buy-button": {
+    "props": {
+      "isOneClickBuy": true,
+      "showTooltipOnSkuNotSelected": false
+    }
   }
+
 }
