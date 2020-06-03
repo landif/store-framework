@@ -2,8 +2,7 @@
   "store.search": {
     "props": {
       "context": {
-        "skusFilter": "FIRST_AVAILABLE",
-        "simulationBehavior": "skip"
+        "skusFilter": "FIRST_AVAILABLE"        
       }
     },
      "blocks": ["search-result-layout"]
