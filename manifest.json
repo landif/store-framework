@@ -49,7 +49,7 @@
     "vtex.product-bookmark-interfaces": "1.x",
     "vtex.product-customizer": "2.x",
     "vtex.product-gifts": "0.x",
-    "vtex.product-list": "0.x",
+    
     "vtex.product-price": "1.x",
     "vtex.reviews-and-ratings": "1.x",
     "vtex.search-resolver": "1.x",

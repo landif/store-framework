@@ -24,12 +24,12 @@
       "preventVerticalStretch":true
     },
     "children": [
-      "vtex.store-components:product-name",
+      "product-name",
       "product-price",
       "buy-button"
     ]
   },
-  "vtex.store-components:product-name":{
+  "product-name":{
     "props": {
       "showSKU": true,
       "showBrandName": true
